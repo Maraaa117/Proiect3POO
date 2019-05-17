@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558045859 source:d:\laborator poo\tema3-9\main.cpp
+	<iostream>
+	<cstring>
+	<vector>
+
